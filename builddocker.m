@@ -10,4 +10,8 @@ compiler.package.docker(res, 'Options', opts)
 
 
 
+% docker login --username=fuentesdt 
+% docker tag 8ff2b82c7c92 fuentesdt/skullstrip:latest
+% docker push fuentesdt/skullstrip
+
 
